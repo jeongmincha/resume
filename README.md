@@ -25,7 +25,7 @@
 
 
 ## 2. Work Experiences
-* AI Engineer @ TmaxData (2019.08 - CURRENT)
+* **AI Engineer @ TmaxData (2019.08 - CURRENT)**
   * FinTech Team
     * Researched the model to predict companies to be delisted or bankrupted
   * NLP Team
@@ -34,16 +34,26 @@
       * reverse proxy API server of NLP modules
       * demonstration front-end
     * Manages docker repository for running NLP Modules
-* Software Engineer @ HYPERITHM (2018.03 - 2019.03)
+* **Software Engineer @ HYPERITHM (2018.03 - 2019.03)**
   * Developed Python trading framework
   * Developed in-house common Node.js module for trading bots
   * Applied CI/CD for overall in-house projects
-* Research & Developer Intern @ elice 
+
+<details open>
+<summary>As intern</summary>
+<div markdown="1">
+
+* **Research & Developer Intern @ elice (2017.01 - 2017.04)**
   * Researched the correlation between students' grades and events in the mobile service, such as code submission and running.
   * Designed the mobile app navigation and usuability
   * Developed the mobile app with React Native
-* Developer Intern @ Softpub
+* **Developer Intern @ Softpub (2016.07 - 2016.08)**
   * Developed a Python script that creates report cards based on the results of students' mock exams
+* **Developer Intern @ LG Electronics (2013.07 - 2013.08)**
+</div>
+</details>
+
+
 
 
 ## 3. Research Papers
