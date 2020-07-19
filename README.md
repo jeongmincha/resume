@@ -3,9 +3,9 @@
 
 > 🤩 \#Data_Engineer \#Full_Stack \#MLOps  
 
-* With Integrity
-* Systematization, Documentation
-* Clean Code
+* With Integrity: I try to make my producs with integrity by applying CI/CD, writing test codes
+* Systematization, Documentation: Whatever task I take, I always make sustainable projects by doing documentation.
+* Clean Code: I pursue writing clean code that is highly readable, and find it important to use code formatters
 
 ## Contents
 * [1. Skill Stack](#1.-Skill-Stack)
