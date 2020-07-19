@@ -8,12 +8,12 @@
 * Clean Code: I pursue writing clean code that is highly readable, and find it important to use code formatters
 
 ## Contents
-* [1. Skill Stack](#1.-Skill-Stack)
-* [2. Work Experiences](#2.-Work-Experiences)
-* [3. Research Papers](#3.-Research-Papers)
-* [4. Personal Projects](#4.-Personal-Projects)
-* [5. Education](#5.-Education)
-* [6. Other related experiences](#6.-Other-related-experiences)
+* [1. Skill Stack](#1-skill-stack)
+* [2. Work Experiences](#2-work-experiences)
+* [3. Research Papers](#3-research-papers)
+* [4. Personal Projects](#4-personal-projects)
+* [5. Education](#5-education)
+* [6. Other related experiences](#6-other-related-experiences)
 
 
 ## 1. Skill Stack
