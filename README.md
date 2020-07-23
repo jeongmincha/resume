@@ -17,11 +17,16 @@
 
 
 ## 1. Skill Stack
-* Language: Python, Javascript, Java
-* Front-End: React
-* Mobile: React Native, Ionic
+* Language: Python, Javascript (+Typescript), Java
+* Front-End: 
+  * Web: React
+  * Mobile: React Native, Ionic
 * Back-End: Spring Boot, Flask
-* CI/CD: Travis, Buddyworks
+* Database: PostgreSQL, MongoDB
+* Test: js (jtest, ava), python (unittest, pytest), Java (JUnit)
+* Documentation: API-Swagger, python(sphinx), typescript(typedoc), 
+* CI/CD: Travis, Jenkins, Buddyworks
+* Other: familiar to git, vim, linux, shell scripting, etc.
 
 
 ## 2. Work Experiences
@@ -35,11 +40,11 @@
       * demonstration front-end
     * Manages docker repository for running NLP Modules
 * **Software Engineer @ HYPERITHM (2018.03 - 2019.03)**
-  * Developed Python trading framework
-  * Developed in-house common Node.js module for trading bots
-  * Applied CI/CD for overall in-house projects
+  * Developed a Python trading framework, which asynchronously runs strategy algorithm which can be triggered by certain events or indicator conditions
+  * Developed an in-house Node.js module for trading bots
+  * Applied CI/CD and wrote test codes for overall in-house projects
 
-<details open>
+<details>
 <summary>As intern</summary>
 <div markdown="1">
 
@@ -50,10 +55,9 @@
 * **Developer Intern @ Softpub (2016.07 - 2016.08)**
   * Developed a Python script that creates report cards based on the results of students' mock exams
 * **Developer Intern @ LG Electronics (2013.07 - 2013.08)**
+  * Wrote an in-house manual to setup open WebOS
 </div>
 </details>
-
-
 
 
 ## 3. Research Papers
