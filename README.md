@@ -30,22 +30,35 @@
 
 
 ## 2. Work Experiences
-* **AI Engineer @ TmaxData (2019.08 - CURRENT)**
-  * FinTech Team
+<details open>
+<summary style="font-weight: bold">AI Engineer @ TmaxData (2019.08 - CURRENT)</summary>
+<div markdown="1">
+
+* FinTech Team
     * Researched the model to predict companies to be delisted or bankrupted
   * NLP Team
-    * Developed the front-end of the chat bot platform that allows users to create their custom chat bots
+    * Developed the front-end of the chatbot platform that allows users to create their custom chatbots
     * Developed the demonstration of NLP team technologies 
       * reverse proxy API server of NLP modules
       * demonstration front-end
     * Manages docker repository for running NLP Modules
-* **Software Engineer @ HYPERITHM (2018.03 - 2019.03)**
-  * Developed a Python trading framework, which asynchronously runs strategy algorithm which can be triggered by certain events or indicator conditions
-  * Developed an in-house Node.js module for trading bots
-  * Applied CI/CD and wrote test codes for overall in-house projects
+</div>
+</details>
+
+<details open>
+<summary style="font-weight: bold">Software Engineer @ HYPERITHM (2018.03 - 2019.03)</summary>
+<div markdown="1">
+
+* Developed a Python trading framework, which asynchronously runs strategy algorithm which can be triggered by certain events or indicator conditions
+* Developed an in-house Node.js module for trading bots
+* Applied CI/CD and wrote test codes for overall in-house projects
+
+</div>
+</details>
+  
 
 <details>
-<summary>As intern</summary>
+<summary style="font-weight: bold"> Intern Experience (Click to expand)</summary>
 <div markdown="1">
 
 * **Research & Developer Intern @ elice (2017.01 - 2017.04)**
