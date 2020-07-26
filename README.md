@@ -90,11 +90,9 @@
 
 
 ## 5. Education
-* M.S., School of Computing, KAIST
-  * 2017.03 - 2019.08
+* 2017.03 - 2019.08, M.S., School of Computing, KAIST
   * 1 year absence (2018.03 - 2019.02)
-* B.S., Computer Science and Engineering, Hanyang University
-  * 2012.03 - 2017.02
+* 2012.03 - 2017.02, B.S., Computer Science and Engineering, Hanyang University
   * 1 year absence (2015.09 - 2016.08)
 
 
