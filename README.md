@@ -35,7 +35,8 @@
 <div markdown="1">
 
 * FinTech Team
-    * Researched the model to predict companies to be delisted or bankrupted
+    * Model 
+    * NLP, graph analysis on financial reports, news, etc.
   * NLP Team
     * Developed the front-end of the chatbot platform that allows users to create their custom chatbots
     * Developed the demonstration of NLP team technologies 
