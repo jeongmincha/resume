@@ -35,14 +35,14 @@
 <div markdown="1">
 
 * FinTech Team
-    * Model 
+    * Researched enterprise valuation models.
     * NLP, graph analysis on financial reports, news, etc.
-  * NLP Team
+* NLP Team
     * Developed the front-end of the chatbot platform that allows users to create their custom chatbots
     * Developed the demonstration of NLP team technologies 
       * reverse proxy API server of NLP modules
       * demonstration front-end
-    * Manages docker repository for running NLP Modules
+    * Managed docker repository for running NLP Modules
 </div>
 </details>
 
