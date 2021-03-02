@@ -1,11 +1,5 @@
-# **Jeongmin Cha**
+# **Jeongmin Cha, Software Engineer**
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
-
-> 🤩 \#Data_Engineer \#Full_Stack \#MLOps  
-
-* With Integrity: I try to make my producs with integrity by applying CI/CD, writing test codes
-* Systematization, Documentation: Whatever task I take, I always make sustainable projects by doing documentation.
-* Clean Code: I pursue writing clean code that is highly readable, and find it important to use code formatters
 
 ## Contents
 * [1. Skill Stack](#1-skill-stack)
@@ -17,12 +11,9 @@
 
 
 ## 1. Skill Stack
-* Language: Python, Javascript (+Typescript), Java
-* Front-End: 
-  * Web: React
-  * Mobile: React Native, Ionic
-* Back-End: Spring Boot, Flask
-* Database: PostgreSQL, MongoDB
+* language: Python, Javascript (+Typescript), Java
+* Back-End: Node.js, Spring, ProObject (An in-house framework similar to Spring)
+* Database: MySQL, PostgreSQL, MongoDB, Tibero
 * Test: js (jtest, ava), python (unittest, pytest), Java (JUnit)
 * Documentation: API-Swagger, python(sphinx), typescript(typedoc), 
 * CI/CD: Travis, Jenkins, Buddyworks
@@ -34,15 +25,19 @@
 <summary style="font-weight: bold">AI Engineer @ TmaxData (2019.08 - CURRENT)</summary>
 <div markdown="1">
 
-* FinTech Team
-    * Researched enterprise valuation models.
-    * NLP, graph analysis on financial reports, news, etc.
+* AI Finance Team
+  * Researched enterprise value assessment models.
+    * Collect financial statements, analysts' consensus reports
+    * Find text keywords, authors, analysis organizations that most affects difference between expected and real stock price
+  * Developed an API server showing bank accounts' information using Open Banking API 
+    * Design Database schemas and API specs
+    * Optimize Open Banking API calls/costs
 * NLP Team
-    * Developed the front-end of the chatbot platform that allows users to create their custom chatbots
-    * Developed the demonstration of NLP team technologies 
-      * reverse proxy API server of NLP modules
-      * demonstration front-end
-    * Managed docker repository for running NLP Modules
+  * Developed the front-end of the chatbot platform that allows users to create their custom chatbots
+  * Developed the demonstration of NLP team technologies 
+    * reverse proxy API server of NLP modules
+    * demonstration front-end
+  * Managed docker repository for running NLP Modules
 </div>
 </details>
 
