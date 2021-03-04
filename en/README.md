@@ -1,5 +1,5 @@
 # **Jeongmin Cha, Software Engineer**
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume%2Fko)](https://hits.seeyoufarm.com)
 
 ## Contents
 * [1. Skill Stack](#1-skill-stack)
@@ -83,9 +83,7 @@
 
 ## 5. Education
 * 2017.03 - 2019.08, M.S., School of Computing, KAIST
-  * 1 year absence (2018.03 - 2019.02)
 * 2012.03 - 2017.02, B.S., Computer Science and Engineering, Hanyang University
-  * 1 year absence (2015.09 - 2016.08)
 
 
 ## 6. Other related experiences
