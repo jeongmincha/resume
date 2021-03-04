@@ -1,5 +1,6 @@
-# **Jeongmin Cha, Software Engineer**
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
+
+# **Jeongmin Cha, Software Engineer**
 
 Resume List
 * [Korean version](./ko)

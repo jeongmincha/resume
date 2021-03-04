@@ -1,5 +1,7 @@
-# **차정민, 소프트웨어 엔지니어**
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume%2Fko)](https://hits.seeyoufarm.com)
+
+
+# **차정민, 소프트웨어 엔지니어**
 
 ## Contents
 * [1. Skill Stack](#1-skill-stack)
@@ -16,7 +18,7 @@
 * 데이터베이스: MySQL, PostgreSQL, MongoDB, Tibero
 * 테스트: js (jtest, ava), python (unittest, pytest), Java (JUnit)
 * 문서화: API-Swagger, python(sphinx), typescript(typedoc), 
-* 테스트: Travis, Jenkins, Buddyworks
+* CI/CD: Travis, Jenkins, Buddyworks
 * 기타: vim, 리눅스, 배쉬 쉘 스크립트 등
 
 
