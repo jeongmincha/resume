@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume%2Fko)](https://hits.seeyoufarm.com)
-
-
 # **차정민, 소프트웨어 엔지니어**
 
 ## Contents
