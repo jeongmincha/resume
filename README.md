@@ -34,9 +34,7 @@
     * Optimize Open Banking API calls/costs
 * NLP Team
   * Developed the front-end of the chatbot platform that allows users to create their custom chatbots
-  * Developed the demonstration of NLP team technologies 
-    * reverse proxy API server of NLP modules
-    * demonstration front-end
+  * Developed the demonstration web page/ API proxy server of NLP team technologies
   * Managed docker repository for running NLP Modules
 </div>
 </details>
