@@ -11,23 +11,23 @@
 
 ## 1. Skill Stack
 * 언어: Python, Javascript (+Typescript), Java
-* 백엔드: Node.js, Spring, ProObject (An in-house framework similar to Spring)
-* 데이터베이스: MySQL, PostgreSQL, MongoDB, Tibero
-* 테스트: js (jtest, ava), python (unittest, pytest), Java (JUnit)
+* 백엔드: Node.js, ProObject (An in-house framework similar to Spring), Spring
+* 데이터베이스: MySQL, PostgreSQL, Tibero, MongoDB / in-memory DB: Redis
+* 테스트: python (unittest, pytest), Javascript (jtest, ava), Java (JUnit)
 * 문서화: API-Swagger, python(sphinx), typescript(typedoc), 
 * CI/CD: Travis, Jenkins, Buddyworks
-* 기타: vim, 리눅스, 배쉬 쉘 스크립트 등
+* 기타: git, vim, linux, bash shell scripts 등
 
 
 ## 2. Work Experiences
 <details open>
-<summary style="font-weight: bold">소프트웨어 엔지니어, 티맥스비아이 (기존 티맥스데이터) (2019.08 - CURRENT)</summary>
+<summary style="font-weight: bold">소프트웨어 엔지니어, 티맥스비아이 (기존 티맥스데이터) (2019.08 - CURRENT, 1년 8개월)</summary>
 <div markdown="1">
 
 * AF (AI Finance) 본부 백엔드 개발 팀
   * 오픈 뱅킹 API 이용해 은행 계좌 정보 조회하는 API 서버 개랍
     * 데이터베이스 스키마 및 API 스펙 설계
-    * 오픈뱅킹 API 호출 줄이기 위해서 캐시 구조 설계
+    * 오픈뱅킹 API 호출을 줄이기 위해서 캐시 구조 설계
   * 기업 가치 평가 모델 연구
     * 재무제표, 애널리스트 컨센서스 리포트 크롤링 수집
     * 리포트의 예상 가격과 실제 주가 사이의 괴리를 최소화하는 텍스트 키워드, 저자, 증권사 등을 찾는 연구 수행
@@ -75,9 +75,13 @@
 
 
 ## 4. Personal Projects
-* 크라우드 펀딩 성공에 가장 영향을 많이 주는 어구 찾기 (NLP) (2017.03 - 2017.06)
-* time gate 함수 변형한 Phased LSTM (2017.03 - 2017.06)
-* 키다리 은행 - 모바일, API 서버 개발 (2016.06 - 2016.12)
+* 개인 매매 관리 텔레그램 봇 개발 (2021.01 - )
+  * AWS, python, redis, MySQL
+* [크라우드 펀딩 성공에 가장 영향을 많이 주는 어구 찾기 (NLP)](https://jeongmincha.github.io/projects/ko/research/2017/03/01/crowdfunding/) (2017.03 - 2017.06)
+  * python sklearn
+* [time gate 함수 변형한 Phased LSTM](https://jeongmincha.github.io/projects/ko/research/2017/03/01/phased-lstm/) (2017.03 - 2017.06)
+  * python tensorflow
+* [키다리 은행 - 모바일, API 서버 개발](https://jeongmincha.github.io/projects/ko/development/2016/06/01/kidaribank/) (2016.06 - 2016.12)
   * Ionic 2 이용하여 iOS + Android 개발
   * Flask 이용하여 API 서버 개발
 
@@ -92,3 +96,5 @@
 * 네이버 D2SF에서 캠퍼스 파트너로 활동 (2017.04 - 2018.04)
 * 국가 이공계 장학생으로 전액 장학금 
 * 소프트웨어 마에스트로 6기 연수생으로 활동 (2015.08 - 2016.07)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
