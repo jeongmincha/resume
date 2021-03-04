@@ -69,7 +69,7 @@
 
 ## 3. Research Papers
 * Elicast: Embedding Interactive Exerciese in Instructional Programming Screencasts (L@S 2018)
-  * [pdf](https://uilab.kaist.ac.kr/assets/research/UIST2018/uist2018_park.pdf) / [GitHub](https://github.com/elicast-research/elicast) / [Slides](https://uilab.kaist.ac.kr/assets/research/LAS2018/las2018_park_slides.pdf) / [ACM DL](https://dl.acm.org/citation.cfm?id=3231657)
+  * [pdf](https://uilab.kaist.ac.kr/assets/research/LAS2018/las2018_park.pdf) / [GitHub](https://github.com/elicast-research/elicast) / [Slides](https://uilab.kaist.ac.kr/assets/research/LAS2018/las2018_park_slides.pdf) / [ACM DL](https://dl.acm.org/citation.cfm?id=3231657)
 * An Imputation Method Using Directly Connected Neighbors in a Trust Network for Recommendation
   * Written in Korean: [Report](https://jeongmincha.github.io/assets/projects/research/recommender-system/recommender-system-report.pdf) / [Paper](https://jeongmincha.github.io/assets/projects/research/recommender-system/recommender-system-paper.pdf)
   * 2015.01 - 2015.10 @ Hanyang University DAKE Lab
