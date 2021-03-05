@@ -96,5 +96,3 @@
 * 네이버 D2SF에서 캠퍼스 파트너로 활동 (2017.04 - 2018.04)
 * 국가 이공계 장학생으로 전액 장학금 
 * 소프트웨어 마에스트로 6기 연수생으로 활동 (2015.08 - 2016.07)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
