@@ -1,5 +1,7 @@
 # **차정민, 소프트웨어 엔지니어**
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
+
 ## Contents
 * [1. Skill Stack](#1-skill-stack)
 * [2. Work Experiences](#2-work-experiences)
@@ -76,14 +78,13 @@
 
 ## 4. Personal Projects
 * 개인 매매 관리 텔레그램 봇 개발 (2021.01 - )
-  * AWS, python, redis, MySQL
+  * 사용 기술: AWS, python, redis, MySQL
 * [크라우드 펀딩 성공에 가장 영향을 많이 주는 어구 찾기 (NLP)](https://jeongmincha.github.io/projects/ko/research/2017/03/01/crowdfunding/) (2017.03 - 2017.06)
-  * python sklearn
+  * python sklearn 
 * [time gate 함수 변형한 Phased LSTM](https://jeongmincha.github.io/projects/ko/research/2017/03/01/phased-lstm/) (2017.03 - 2017.06)
-  * python tensorflow
+  * python tensorflow, sklearn 등을 활용하여 time gate 함수 수정
 * [키다리 은행 - 모바일, API 서버 개발](https://jeongmincha.github.io/projects/ko/development/2016/06/01/kidaribank/) (2016.06 - 2016.12)
-  * Ionic 2 이용하여 iOS + Android 개발
-  * Flask 이용하여 API 서버 개발
+  * Ionic 2 이용하여 iOS + Android 개발, Python Flask 이용하여 API 서버 개발
 
 
 ## 5. Education
@@ -94,5 +95,5 @@
 ## 6. Other related experiences
 * 1년간 프로그래밍 학원에서 강사 경험, 하이브리드 모바일 프레임워크 Ionic 개발 온라인 강의 코스 운영
 * 네이버 D2SF에서 캠퍼스 파트너로 활동 (2017.04 - 2018.04)
-* 국가 이공계 장학생으로 전액 장학금 
+* 국가 이공계 장학생으로 전액 장학금
 * 소프트웨어 마에스트로 6기 연수생으로 활동 (2015.08 - 2016.07)
