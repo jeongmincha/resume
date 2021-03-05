@@ -19,6 +19,7 @@
 ## 1. Skill Stack
 * 언어: Python, Javascript (+Typescript), Java
 * 백엔드: Node.js, ProObject (Spring과 유사)
+* 프론트엔드: TOP, Vanilla Javascript, Ionic
 * 데이터베이스: MySQL, PostgreSQL, Tibero, MongoDB / in-memory DB: Redis
 * 테스트: python (unittest, pytest), Javascript (jtest, ava), Java (JUnit)
 * 문서화: API-Swagger, python(sphinx), typescript(typedoc), 
