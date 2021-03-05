@@ -29,7 +29,7 @@
 
 ## 2. Work Experiences
 <details open>
-<summary style="font-weight: bold">소프트웨어 엔지니어, 티맥스비아이 (기존 티맥스데이터) (2019.08 - CURRENT, 1년 8개월)</summary>
+<summary style="font-weight: bold">소프트웨어 엔지니어, 티맥스비아이 (기존 티맥스데이터) (2019.08 - CURRENT)</summary>
 <div markdown="1">
 
 * AF (AI Finance) 본부 백엔드 개발 팀
@@ -48,7 +48,7 @@
 </details>
 
 <details open>
-<summary style="font-weight: bold">퀀트 개발자, 하이퍼리즘 (2018.03 - 2019.03)</summary>
+<summary style="font-weight: bold">퀀트 개발자, 하이퍼리즘 (2018.03 - 2019.02, 1년)</summary>
 <div markdown="1">
 
 * 이벤트 조건에 따라 전략 알고리즘들을 비동기로 실행하는 파이썬 트레이딩 프레임워크 개발
@@ -63,11 +63,11 @@
 <summary style="font-weight: bold"> 인턴 경험 (클릭해서 확장)</summary>
 <div markdown="1">
 
-* **연구 및 개발 인턴, 엘리스 (2017.01 - 2017.04)**
+* **연구 및 개발 인턴, 엘리스 (2017.01 - 2017.04, 4개월)**
   * 학생의 성적과 모바일 서비스 내 이벤트 (코드 제출, 실행 등) 사이의 상관관계 연구
   * 모바일 어플리케이션 네비게이션 및 사용성 설계
   * 리액트 네이티브로 모바일 어플리케이션 개발
-* **개발 인턴, LG 전자 (2013.07 - 2013.08)**
+* **개발 인턴, LG 전자 (2013.07 - 2013.08, 2개월)**
   * OpenWebOS 셋팅과 관련된 개발 매뉴얼 작성
 
 </div>
