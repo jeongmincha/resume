@@ -1,6 +1,11 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
+
 # **차정민, 소프트웨어 엔지니어**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmincha%2Fresume)](https://hits.seeyoufarm.com)
+* Email. cjm9236@gmail.com
+* Github: https://github.com/jeongmincha
+* Linkedin: https://www.linkedin.com/in/jeongmincha
+
 
 ## Contents
 * [1. Skill Stack](#1-skill-stack)
