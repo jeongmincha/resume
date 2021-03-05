@@ -11,11 +11,11 @@
 
 ## 1. Skill Stack
 * 언어: Python, Javascript (+Typescript), Java
-* 백엔드: Node.js, ProObject (An in-house framework similar to Spring), Spring
+* 백엔드: Node.js, ProObject (Spring과 유사)
 * 데이터베이스: MySQL, PostgreSQL, Tibero, MongoDB / in-memory DB: Redis
 * 테스트: python (unittest, pytest), Javascript (jtest, ava), Java (JUnit)
 * 문서화: API-Swagger, python(sphinx), typescript(typedoc), 
-* CI/CD: Travis, Jenkins, Buddyworks
+* CI/CD: Travis, Buddyworks
 * 기타: git, vim, linux, bash shell scripts 등
 
 
@@ -32,9 +32,9 @@
     * 재무제표, 애널리스트 컨센서스 리포트 크롤링 수집
     * 리포트의 예상 가격과 실제 주가 사이의 괴리를 최소화하는 텍스트 키워드, 저자, 증권사 등을 찾는 연구 수행
 * AI 본부 자연어처리 팀
-  * 챗봇을 개발 플랫폼 Hi-Tee Studio 프론트엔드 개발
+  * 챗봇 개발 플랫폼 HyperChatbot Studio 프론트엔드 개발
   * NLP 팀 기술 데모 페이지 및 API 게이트웨이 서버 개발
-  * NLP 모듈 도커 레포지터리 셋팅 및 관리
+  * NLP 모듈 도커 저장소 설정 및 관리
 
 </div>
 </details>
@@ -43,7 +43,7 @@
 <summary style="font-weight: bold">퀀트 개발자, 하이퍼리즘 (2018.03 - 2019.03)</summary>
 <div markdown="1">
 
-* 이벤트 조건에 따라 전략 알고리즘들을 비동기로 실행하게 하는 파이썬 트레이딩 프레임워크 개발
+* 이벤트 조건에 따라 전략 알고리즘들을 비동기로 실행하는 파이썬 트레이딩 프레임워크 개발
 * 자동화 매매 봇에 공통적으로 사용하는 사내 Node.js 모듈 개발
 * 사내 프로젝트들에 CI/CD 도입하고 테스트 코드 작성
 
