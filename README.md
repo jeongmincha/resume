@@ -46,6 +46,7 @@
 <summary style="font-weight: bold">소프트웨어 엔지니어, 티맥스비아이 (기존 티맥스데이터) (2019.08 - CURRENT)</summary>
 <div markdown="1">
 
+* 회사 소개: 국내 시스템 소프트웨어 1위 기업 (본인이 재직했던 부서는 주로 AI 및 신사업 서비스 관련 부서)
 * AI Finance 본부 백엔드 개발 팀
   * 오픈 뱅킹 API 이용하여 은행 계좌 정보 조회하는 API 서버 개발
   * 금융통합 플랫폼 서비스 MSA 백엔드 시스템 설계 및 개발
@@ -62,6 +63,7 @@
 <summary style="font-weight: bold">퀀트 개발자, 하이퍼리즘 (2018.03 - 2019.02, 1년)</summary>
 <div markdown="1">
 
+* 회사 소개: 암호화폐 트레이딩 알고리즘 개발 회사
 * 이벤트 조건에 따라 전략 알고리즘들을 비동기로 실행하는 파이썬 자동화 매매 프레임워크 개발
 * 자동화 매매 봇에 공통적으로 사용하는 사내 Node.js 모듈 개발
 * 사내 프로젝트들에 CI/CD 도입하고 테스트 코드 작성
@@ -94,7 +96,7 @@
 
 
 ## 4. Personal Projects
-* 개인 매매 관리 텔레그램 봇 개발 (2021.01 - )
+* 개인 암호화폐 매매 관리 텔레그램 봇 개발 (2021.01 - )
   * 사용 기술: AWS, python, redis, MySQL
 * [크라우드 펀딩 성공에 가장 영향을 많이 주는 어구 찾기 (NLP)](https://jeongmincha.github.io/projects/ko/research/2017/03/01/crowdfunding/) (2017.03 - 2017.06)
   * python sklearn 
