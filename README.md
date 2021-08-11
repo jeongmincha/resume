@@ -32,9 +32,9 @@
 
 ## 1. Skill Stack
 * 언어: Python, Javascript, Java
-* 백엔드: Node.js, ProObject (Spring 유사)
+* 백엔드: Node.js
 * 프론트엔드: TOP, Vanilla Javascript, Ionic
-* 데이터베이스: MySQL, PostgreSQL, Tibero, MongoDB, Redis (in-memory DB)
+* 데이터베이스: MySQL, PostgreSQL, MongoDB, Redis (in-memory DB)
 * 테스트: python (unittest, pytest), Javascript (jtest, ava), Java (JUnit)
 * 문서화: API-Swagger, python(sphinx), typescript(typedoc), 
 * CI/CD: Travis, Buddyworks
@@ -43,7 +43,17 @@
 
 ## 2. Work Experiences
 <details open>
-<summary style="font-weight: bold">소프트웨어 엔지니어, 티맥스비아이 (기존 티맥스데이터) (2019.08 - CURRENT)</summary>
+<summary style="font-weight: bold">백엔드 소프트웨어 엔지니어, 야놀자 (2021.07 - CURRENT)</summary>
+<div markdown="1">
+
+* 회사 소개: 국내 OTA (Online Travel Agency) 대표 기업
+* R&D 그룹 CSI lab 실 F&B팀
+  * 맛집 줄서기 서비스 API 및 백 오피스 설계 및 개발
+  * Node.js, Nest.js, Next.js, Redis, MySQL
+</div>
+
+<details open>
+<summary style="font-weight: bold">소프트웨어 엔지니어, 티맥스비아이 (기존 티맥스데이터) (2019.08 - 2021.06)</summary>
 <div markdown="1">
 
 * 회사 소개: 국내 시스템 소프트웨어 1위 기업 (본인이 재직했던 부서는 주로 AI 및 신사업 서비스 관련 부서)
